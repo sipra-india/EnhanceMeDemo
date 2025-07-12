@@ -282,10 +282,12 @@ h6,
 /*** Feature ***/
 .align-items-center{
     display: flex;
+    justify-content: center;
 }
-.row .g-4{
+.service{
     display: flex; 
     align-items: center;
+    justify-content: center;
     width: 100%;
 }
 
