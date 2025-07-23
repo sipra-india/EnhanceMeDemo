@@ -330,6 +330,11 @@ h6,
 
 
 /*** Screenshot ***/
+.left {
+    align-content: left;
+    justify-content: center;
+    padding-left: 8%;
+}
 .screenshot-carousel {
     position: relative;
     width: 253px;
